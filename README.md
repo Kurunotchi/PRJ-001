@@ -49,7 +49,7 @@ All assets belong to their respective owners and are used for educational and po
 
 ## 📷 Render Preview
 
-![Final Render](render-images/Top.png)
+![Render](3d_Aliyah/render-images/Top.png)
 
 ---
 
