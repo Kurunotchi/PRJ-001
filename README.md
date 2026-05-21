@@ -49,7 +49,7 @@ All assets belong to their respective owners and are used for educational and po
 
 ## 📷 Render Preview
 
-> Final rendered output from Blender.
+![Final Render](render-images/Top.png)
 
 ---
 
