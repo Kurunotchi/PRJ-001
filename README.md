@@ -1,79 +1,63 @@
-# 🌿 Blender 3D Environment Render
-## PRJ-001
-This repository contains a 3D environment design and realistic render created using Blender. The project focuses on outdoor scene visualization, realistic vegetation rendering, lighting, and product-style presentation within a natural environment.
+# 🌿 Blender 3D Environment Render  
+## PRJ-001  
 
-## 📌 Project Overview
-
-The scene showcases:
-- Realistic grass and vegetation
-- Outdoor environmental composition
-- High-quality lighting and shadows
-- Detailed 3D modeling
-- Photorealistic rendering workflow
-
-The project was created to practice and demonstrate:
-- Blender 3D modeling
-- Scene composition
-- Material and texture setup
-- Lighting and rendering techniques
-- Environmental visualization
+This repository showcases a 3D environment scene and realistic render created using Blender. The project focuses on outdoor visualization, natural lighting, vegetation detailing, and high-quality rendering techniques for portfolio presentation.
 
 ---
 
-## 🛠️ Software Used
+## 📌 Project Overview  
 
-- Blender
-- Cycles / Eevee Render Engine
+This scene features a realistic outdoor environment with emphasis on composition, lighting, and detail. It demonstrates the process of building a visually appealing natural setting using Blender.
 
----
+### Key Highlights:
+- Realistic grass and vegetation setup  
+- Outdoor environmental composition  
+- High-quality lighting and shadow effects  
+- Detailed 3D modeling and scene building  
+- Photorealistic rendering workflow  
 
-## 🎨 Assets & Resources
-
-Some environmental assets and models used in this project are from:
-
-- 3D Shaker Models
-
-All assets belong to their respective owners and are used for educational and portfolio purposes only.
-
----
-
-## ✨ Features
-
-- Realistic environmental assets
-- Natural lighting setup
-- Detailed terrain and foliage
-- Optimized render composition
-- High-quality visualization output
+This project was developed to strengthen skills in:
+- 3D modeling in Blender  
+- Scene composition and layout  
+- Material and texture design  
+- Lighting and rendering techniques  
+- Environmental visualization workflows  
 
 ---
 
-## 📷 Render Preview
+## 🛠️ Software Used  
+- Blender  
+- Cycles / Eevee Render Engine  
+
+---
+
+## 🎨 Assets & Resources  
+
+Some assets used in this project were sourced from:
+
+- 3D Shaker Models  
+
+All third-party assets remain the property of their respective creators and are used strictly for educational and portfolio purposes.
+
+---
+
+## 📷 Render Preview  
 
 ![Render](3d_Aliyah/render-images/Top.png)
 
 ---
 
-## 📚 Learning Objectives
+## 🚀 Future Improvements  
 
-This project helped improve skills in:
-- 3D Environment Design
-- Realistic Rendering
-- Asset Placement
-- Lighting and Shadow Control
-- Blender Workflow Optimization
-
----
-
-## 🚀 Future Improvements
-
-- More detailed terrain sculpting
-- Enhanced vegetation variety
-- HDRI environment lighting
-- Animation and camera movement
-- Additional environmental assets
+Planned enhancements for this project include:
+- More detailed terrain sculpting  
+- Expanded vegetation variety  
+- HDRI-based lighting improvements  
+- Camera animation and scene walkthroughs  
+- Additional environmental detailing  
 
 ---
 
-## 📄 License
+## 📄 License  
 
-This project is for educational and portfolio purposes only.
+This project is intended for educational and portfolio use only.
